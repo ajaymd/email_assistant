@@ -1,0 +1,116 @@
+{
+  "users": {
+    "Alex Al": {
+      "company": "Kaidemark LLC",
+      "default_tone": "concise",
+      "drafts": [
+        {
+          "draft": {
+            "body": "I'm reaching out because I think there's a strong fit between Kaidemark and warehouse robotics. We're exploring a partnership that could unlock real value for both sides\u2014streamlined operations, better efficiency, and new growth opportunities.\n\nWould you have 30 minutes next week to chat through the details? Happy to work around your schedule.",
+            "closing": "Thanks,",
+            "greeting": "Hi Dana,",
+            "signature": "Alex Altimate\nKaidemark LLC",
+            "subject": "Partnership opportunity with warehouse robotics"
+          },
+          "edits": "",
+          "intent": "outreach",
+          "ts": "2026-04-24T05:50:46+00:00"
+        },
+        {
+          "draft": {
+            "body": "I'm reaching out because I think there's a strong fit between Kaidemark and warehouse robotics. We're exploring a partnership with warehouse robotics that could unlock real value for both sides\u2014streamlined operations, better efficiency, and new growth opportunities.\n\nWould you have 30 minutes next week to chat through the details? Dress code is optional, and I'm happy to work around your schedule.",
+            "closing": "Thanks,",
+            "greeting": "Hi Dana,",
+            "signature": "Alex Altimate\nKaidemark LLC",
+            "subject": "Partnership opportunity with warehouse robotics"
+          },
+          "edits": "",
+          "intent": "outreach",
+          "ts": "2026-04-24T06:00:14+00:00"
+        },
+        {
+          "draft": {
+            "body": "I'm reaching out because I think there's a real fit between Kaidemark and warehouse robotics. We're exploring a partnership that could unlock solid value for both sides\u2014streamlined operations, better efficiency, and new growth opportunities.\n\nWould you have 30 minutes next week to chat through the details? Dress code is optional, and I'm happy to work around your schedule.",
+            "closing": "Thanks,",
+            "greeting": "Hi Dana,",
+            "signature": "Alex Altimate\nKaidemark LLC",
+            "subject": "Partnership opportunity with warehouse robotics"
+          },
+          "edits": "",
+          "intent": "outreach",
+          "ts": "2026-04-24T06:02:41+00:00"
+        },
+        {
+          "draft": {
+            "body": "I'm reaching out because I think there's a real fit between Kaidemark and warehouse robotics. We're exploring a partnership that could unlock solid value for both sides\u2014streamlined operations, better efficiency, and new growth opportunities.\n\nWould you have 30 minutes next week to chat through the details? Happy to work around your schedule.",
+            "closing": "Thanks,",
+            "greeting": "Hi Dana,",
+            "signature": "Alex Altimate\nKaidemark LLC",
+            "subject": "Partnership opportunity with warehouse robotics"
+          },
+          "edits": "",
+          "intent": "outreach",
+          "ts": "2026-04-24T06:03:46+00:00"
+        }
+      ],
+      "name": "Alex Al",
+      "signature": "Alex Altimate"
+    },
+    "demo": {
+      "company": "Kaidemark Robotics",
+      "default_tone": "friendly",
+      "drafts": [
+        {
+          "draft": {
+            "body": "I hope this message finds you well. My name is Ajay M, and I lead product development at Kaidemark Robotics. I am reaching out to discuss an exciting team opportunity within our warehouse robotics division that may be of interest to you.\n\nWe have achieved tremendous success with our recent initiatives and would welcome the chance to share our findings with you during a brief thirty-minute call next week. I believe the insights we have gathered could be mutually beneficial as we explore potential collaboration.\n\nPlease let me know your availability; any time between 2:00 AM and 5:00 AM works well on my end. I would be happy to accommodate a time that suits your schedule.",
+            "closing": "Thank you for your consideration, and I look forward to hearing from you.",
+            "greeting": "Dear Dana,",
+            "signature": "Ajay M\nProduct Lead, Kaidemark Robotics\nAjay@Kaidemark.ai",
+            "subject": "Warehouse Robotics Team Opportunity \u2013 Request for Brief Call"
+          },
+          "edits": "",
+          "intent": "outreach",
+          "ts": "2026-04-11T14:09:10+00:00"
+        },
+        {
+          "draft": {
+            "body": "Hope you're having a great week! I'm reaching out from Kaidemark Robotics to discuss a potential collaboration on a partnering warehouse project. I believe our combined expertise could lead to some exciting developments.\n\nWould you have time for a 30-minute meeting next week to explore this further? Please let me know your availability, and I'll do my best to accommodate.",
+            "closing": "Looking forward to your response!",
+            "greeting": "Hi Dana,",
+            "signature": "Ajay M\nProduct Lead, Kaidemark Robotics\nAjay@Kaidemark.ai",
+            "subject": "Let's Connect on the Warehouse Project"
+          },
+          "edits": "",
+          "intent": "outreach",
+          "ts": "2026-04-24T05:42:08+00:00"
+        },
+        {
+          "draft": {
+            "body": "Hope your week is going well! I'm Ajay from Kaidemark Robotics, and I've been impressed by what I've seen in the warehouse automation space. I think there could be some real synergy between what we're building and your work.\n\nI'd love to explore a potential partnership with warehouse robotics and see if we might collaborate in a way that makes sense for both of us. Would you be open to a quick 30-minute meeting sometime next week? No pressure at all \u2014 just thought it'd be worth a conversation.",
+            "closing": "Cheers,",
+            "greeting": "Hi Dana,",
+            "signature": "Ajay M\nProduct Lead, Kaidemark Robotics\nAjay@Kaidemark.ai",
+            "subject": "Quick hello from Kaidemark"
+          },
+          "edits": "",
+          "intent": "outreach",
+          "ts": "2026-04-24T05:47:15+00:00"
+        },
+        {
+          "draft": {
+            "body": "I apologize for not connecting with you sooner \u2014 I've been meaning to reach out about a potential warehouse robotics partnership that I think could be really valuable for both of us. I'm Ajay from Kaidemark Robotics, and I genuinely believe there's meaningful synergy between what we're building and your work in this space.\n\nI'd love to grab a 30-minute meeting next week to explore this properly and see if collaboration makes sense. I should have initiated this conversation earlier, so I appreciate you taking the time to consider it. Please let me know what works best for your schedule, and I'll make it happen.",
+            "closing": "Thanks for your time, Dana.",
+            "greeting": "Hi Dana,",
+            "signature": "Ajay M\nProduct Lead, Kaidemark Robotics\nAjay@Kaidemark.ai",
+            "subject": "I should've reached out sooner \u2014 let's talk warehouse robotics partnership"
+          },
+          "edits": "",
+          "intent": "outreach",
+          "ts": "2026-04-24T05:48:07+00:00"
+        }
+      ],
+      "name": "Ajay M",
+      "signature": "Ajay M\nProduct Lead, Kaidemark Robotics\nAjay@Kaidemark.ai"
+    }
+  }
+}

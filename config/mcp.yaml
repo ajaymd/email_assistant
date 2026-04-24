@@ -1,0 +1,42 @@
+# Model Control Plane configuration.
+# The LLMRouter reads this file at startup. The primary model is tried first;
+# on any failure (network error, rate limit, empty/malformed output, JSON
+# validation failure), the router falls back to the secondary model and logs
+# the switch to the agent trace so it surfaces in the UI and in LangSmith.
+
+primary:
+  provider: anthropic
+  model: claude-haiku-4-5
+  max_tokens: 1500
+  temperature: 0.6
+
+fallback:
+  provider: openai
+  model: gpt-4o
+  max_tokens: 1500
+  temperature: 0.6
+
+# Per-agent overrides. If absent, the agent uses the global primary/fallback.
+agents:
+  review_agent:
+    # Pin the reviewer to Claude — stricter critique behavior in our testing.
+    primary:
+      provider: anthropic
+      model: claude-3-5-sonnet-20241022
+      temperature: 0.2
+    fallback:
+      provider: openai
+      model: gpt-4o
+      temperature: 0.2
+  intent_detection_agent:
+    # Classification — low temperature, smaller token budget.
+    primary:
+      provider: anthropic
+      model: claude-3-5-sonnet-20241022
+      temperature: 0.0
+      max_tokens: 200
+    fallback:
+      provider: openai
+      model: gpt-4o-mini
+      temperature: 0.0
+      max_tokens: 200
